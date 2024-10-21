@@ -12,7 +12,7 @@ def show_about():
 
     msg_box = QMessageBox()
     msg_box.setIcon(QMessageBox.Information)
-    msg_box.setText("音量监控器\n\n此应用程序用于监控和设置系统音量。\n\n开发者：pigeons2023\n\n版本号：测试版0.5")
+    msg_box.setText("音量监控器\n\n此应用程序用于监控和设置系统音量。\n\n开发者：pigeons2023\n\n版本号：测试版0.5.1")
     msg_box.setWindowTitle("关于")
 
     # 设置窗口图标
